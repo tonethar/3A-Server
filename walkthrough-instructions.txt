@@ -1,0 +1,5 @@
+3A Server Walkthrough Instructions
+
+1) Fork the https://github.com/tonethar/3A-Server-Start.git repository
+2) Move to your PC desktop, and git clone your forked repository
+3) 
